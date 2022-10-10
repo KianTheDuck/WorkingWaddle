@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kiant\\source\\repos\\SomeDiscordBotThing\\SomeDiscordBotThing\\SomeDiscordBotThing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kiant\\source\\repos\\SomeDiscordBotThing\\SomeDiscordBotThing\\SomeDiscordBotThing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kiant\\source\\repos\\SomeDiscordBotThing\\SomeDiscordBotThing\\SomeDiscordBotThing.csproj",
+        "projectName": "SomeDiscordBotThing",
+        "projectPath": "C:\\Users\\kiant\\source\\repos\\SomeDiscordBotThing\\SomeDiscordBotThing\\SomeDiscordBotThing.csproj",
+        "packagesPath": "C:\\Users\\kiant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kiant\\source\\repos\\SomeDiscordBotThing\\SomeDiscordBotThing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kiant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "DSharpPlus.Lavalink": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "DSharpPlus.Rest": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "DSharpPlus.SlashCommands": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "DSharpPlus.VoiceNext": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "DSharpPlus.VoiceNext.Natives": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Nefarius-VideoLibrary": {
+              "target": "Package",
+              "version": "[1.3.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "VideoLibrary": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
